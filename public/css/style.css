@@ -1,0 +1,25 @@
+.p-100{
+  padding-top: 100px;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  .imgslide1{
+    background-image: url(./img/bg5.jpg)
+  }
+  .imgslide2{
+    background-image: url(./img/image2.jpg)
+  }
+  .imgslide3{
+    background-image: url(./img/emilyz.jpg)
+  }
